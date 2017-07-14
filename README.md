@@ -6,14 +6,14 @@
 **PROYECTO FRUTERIA "MASTER"**
 
 1 **HTML - ETIQUETAS UTILIZADAS**
-  + etiqueta para encabezado **"<h1></h1>"**
-  + etiqueta para escribir un parrafo **"<p></p>"**
-  - etiquet para salto de linea **"<br/>"**
-  - etiqueta para resaltar en negrita **"<strong></strong>"**
-  * etiqueta para colocar imagenes **"<img src="fruta.jpg"/>"**
-  * etiqueta para una lista ordenada **"<ol></ol>"**
-  + etiqueta para crear una caja de texto **"<input id="fruta"></input>"**
-  + etiqueta para crear un boton **"<button id="button">AGREGAR</button>"**
+  + etiqueta para encabezado **"h1"**
+  + etiqueta para escribir un parrafo **"p"**
+  - etiquet para salto de linea **"br"**
+  - etiqueta para resaltar en negrita **"strong"**
+  * etiqueta para colocar imagenes **"img src="fruta.jpg""**
+  * etiqueta para una lista ordenada **"ol"**
+  + etiqueta para crear una caja de texto **"input"**
+  + etiqueta para crear un boton **"button"**
   - etiqueta para enlazar el archivo JS **"<script src="javascrit.js"></script>"**
 
 2 **ARCHIVO JS**
