@@ -13,8 +13,8 @@ Proyecto de registrar frutas con html
 
 1. crear repositorio - **LECCION-13**
 2. enlazar con nuestro repositorio local con **git remote add origin URL**
-3. luego ver los cambios realizados con **git status
-4. agregar con git add .**
+3. luego ver los cambios realizados con **git status**
+4. agregar con **git add .**
 5. **git status**
 6. luego comentar los cambios realizados **git commit -m "  "**
 7. hacer un **git push -u origin master**
