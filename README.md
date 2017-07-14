@@ -48,5 +48,10 @@
 + git remote add origin https://github.com/jani-123/LECCION-13.git
 + git push -u origin master
 
+***
+
+**LINK**
+
+https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md
 
 ~~hecho por JANETH.Q.A~~
