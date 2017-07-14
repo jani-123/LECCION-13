@@ -19,7 +19,7 @@ Proyecto de registrar frutas con html
 6. luego comentar los cambios realizados **git commit -m "  "**
 7. hacer un **git push origin master**
 
-*** o___o ---
+*** 
 
 **COMANDOS PARA CREAR UN README.md**
 
