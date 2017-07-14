@@ -3,7 +3,7 @@
 
 ***
 
-**PROYECTO FRUTERIA "MASTER"
+**PROYECTO FRUTERIA "MASTER"**
 
 1 **HTML - ETIQUETAS UTILIZADAS**
   + etiqueta para encabezado **<h1></h1**
@@ -14,7 +14,7 @@
   * etiqueta para una lista ordenada **<ol></ol>**
   + etiqueta para crear una caja de texto **<input id="fruta"></input>**
   + etiqueta para crear un boton **<button id="button">AGREGAR</button>**
-  - etiqueta para enlazar el archivo JS **<script src="javascrit.js"></script>
+  - etiqueta para enlazar el archivo JS **<script src="javascrit.js"></script>**
 
 2 **ARCHIVO JS**
    1. *creamos un array vacio para almacenar los nombres de las frutas ingresadas*
@@ -49,4 +49,4 @@
 + git push -u origin master
 
 
-~~ hecho por JANETH.Q.A~~
+~~hecho por JANETH.Q.A~~
