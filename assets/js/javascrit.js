@@ -33,3 +33,8 @@ addAgrega.onclick = function(){
   printHTML(product.toHTML());
   printHTML(mergeHTML());
 };
+
+function limpiar()
+{
+  var _fruta = document.getElementById('frutas').value = " ";
+}
